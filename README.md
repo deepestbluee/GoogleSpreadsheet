@@ -1,1 +1,1 @@
-This is a very simple and collaborative Google SpreadSheets clone with server and Django frontend.
+This is clone Google Spreadsheet project that implemented for related scripting course.
