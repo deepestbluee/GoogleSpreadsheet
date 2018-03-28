@@ -1,1 +1,1 @@
-This is clone Google Spreadsheet project that implemented for related scripting course.
+This is a clone Google Spreadsheet project that is implemented for related scripting course in METU.
